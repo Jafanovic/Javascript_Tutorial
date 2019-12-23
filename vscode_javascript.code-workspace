@@ -3,5 +3,9 @@
 		{
 			"path": "tut0001"
 		}
-	]
+	],
+	"settings": {
+		"terminal.integrated.fontSize": 18,
+		"editor.fontSize": 20
+	}
 }
